@@ -6,4 +6,5 @@ Data processing:- Check Missing values, Remove Employee count, Over 18 and stand
 Data analysis:- Create different visualizations From the dataset 
 Model Traning:- Use partition (80-20) 
 Model Prediction:- Accuracy, Confusion Matrix, ROC Curve
+
  
